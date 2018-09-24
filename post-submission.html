@@ -2,7 +2,7 @@
     <head>
         <title>Kristy's Portfolio & Blog | 18.09</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
-        
+
         <nav>
             <a href="index.html">HOMEPAGE</a>
             <a href="barista.html">BARISTA</a>
@@ -23,10 +23,22 @@
         </header><!--close for header-->
 
         <main>
-            <h3>Most Recent Blog Posts:</h3>
-                <ul>
-                  <li><a href="post.html">Blog</a></li>
-                </ul><!--close for list-->
+          <h3>New Blog Post Submission</h3>
+          <form class="post-submissions-form">
+            <label for="title">Title</label>
+            <input type="text" id="title" name="title" placeholder="Title"></input>
+
+            <label for="author">Author</label>
+            <input type="text" id="author" name="author" placeholder="Author"></input>
+
+            <label for="author">Date</label>
+            <input type="date" id="date" name="date" placeholder="Date"></input>
+            <br>
+            <br>
+            <label for="content">Content</label>
+            <textarea name="content" id="content" placeholder="Content"></textarea>
+            <button type="submit" value="Submit">Submit</input>
+          </form><!--close for form-->
         </main><!--close for main-->
 
     </body><!--close for body-->
@@ -37,4 +49,3 @@
     </footer><!--close for footer-->
 
 </html>
-
