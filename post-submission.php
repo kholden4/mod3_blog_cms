@@ -1,7 +1,6 @@
 <?php
     include 'nav.php';
     include 'header.php';
-    include 'footer.php';
 ?>
 
         <div class="main">
@@ -24,3 +23,7 @@
         </div><!--close for main-->
 
     </body><!--close for body-->
+
+<?php
+    include 'footer.php';
+?>
