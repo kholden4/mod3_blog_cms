@@ -1,11 +1,5 @@
-<?php
-
-?>
-
 <!DOCTYPE html>
-    <html>
     <head>
-        <meta charset="UTF-8">
         <title>Kristy's Portfolio & Blog | 18.09</title>
         <link rel="stylesheet" type="text/css" href="format.css">
         <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
