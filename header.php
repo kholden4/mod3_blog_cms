@@ -1,11 +1,11 @@
 
 <head>
-    <meta charset="UTF-8">
-    <title>Kristy's Portfolio & Blog | 18.09</title>
-    <link rel="stylesheet" type="text/css" href="format.css">
-    <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
-</head><!--close for head-->
+         <meta charset="UTF-8">
+            <title>Kristy's Portfolio & Blog | 18.09</title>
+            <link rel="stylesheet" type="text/css" href="format.css">
+            <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+        </head><!--close for head-->
 
 <body>
     <div id="parent">

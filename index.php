@@ -22,7 +22,7 @@
                 <h3>Most Recent Blog Posts:</h3>
                 <ul class="nav2">
                     <?php 
-                        // Call function here
+                        // Call function
                         $postTitles = getPostTitlesFromDatabase();
                         
                         foreach($postTitles as $postTitle) {
