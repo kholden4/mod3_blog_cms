@@ -1,12 +1,12 @@
 <!DOCTYPE html>
   <html>
       <head>
-      <?php include 'nav.php'?>
+        <?php include 'nav.php'?>
       </head><!--close for nav-->
 
       <body>
           <header>
-          <?php include 'header.php'?>
+            <?php include 'header.php'?>
           </header><!--close for header-->
 
           <main>
@@ -20,11 +20,10 @@
                 </div>
               </article><!--close for article-->
           </main><!--close for main-->
-
       </body><!--close for body-->
 
       <footer>
-      <?php include 'footer.php'?>
+        <?php include 'footer.php'?>
       </footer><!--close for footer-->
 
 </html>
