@@ -1,18 +1,24 @@
-<?php
-    include 'nav.php';
-    include 'header.php';
-?>
+<!DOCTYPE html>
+    <html>
+        <head>
+        <?php include 'nav.php'?>
+        </head><!--close for nav-->
 
-        <div id="main">
-            <h3>Most Recent Blog Posts:</h3>
+        <body>
+            <header>
+            <?php include 'header.php'?>
+            </header><!--close for header-->
+
+            <main>
+                <h3>Most Recent Blog Posts:</h3>
                 <ul class="nav2">
-                  <li><a href="post.html">Blog</a></li>
+                <li><a href="post.html">Blog</a></li>
                 </ul><!--close for list-->
-            </div><!--close for main-->
-        </div><!--close for parent-->
+            </main><!--close for main-->
+        </body><!--close for body-->
 
-    </body><!--close for body-->
+        <footer>
+        <?php include 'footer.php'?>
+        </footer><!--close for footer-->
 
-<?php
-    include 'footer.php';
-?>
+    </html>
